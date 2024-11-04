@@ -1,3 +1,3 @@
 # fawry-challenge
 
-All examples exist in or.example package
+All examples exist in org.example package
