@@ -1,0 +1,2 @@
+rootProject.name = "fawry-challenge"
+
